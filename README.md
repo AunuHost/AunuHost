@@ -2,13 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+AunuHost!+👋;Python+Bot+Developer+🤖;Linux+System+Admin+🐧;Building+AunuHost+Database+🚀" alt="Typing SVG" />
 
+
 <br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AunuHost&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophy" />
-</a>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -29,11 +24,6 @@
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=AunuHost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AunuHost&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" /> |
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AunuHost&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-<br>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=AunuHost&label=Profile%20Views&color=blue&style=flat-square" alt="visitor badge"/>
