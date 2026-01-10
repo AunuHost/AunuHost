@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+AunuHost!+👋;Python+Bot+Developer+🤖;Linux+System+Admin+🐧;Building+AunuHost+Database+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+AunuHost!+👋;Python+Bot+Developer+🤖;Linux+System+Admin+🐧;AunuHost+Central+System+🚀" alt="Typing SVG" />
 
 
 <br>
